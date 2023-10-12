@@ -1,0 +1,7 @@
+time_series_path = "C://Users//louis.reumaux//Documents//CompareScenariosGenerators.jl//test//execution_example//enas.csv"
+num_steps_ahead = 12
+num_scenarios = 10
+num_windows = 2
+model_executable_path = "C://Users//louis.reumaux//Documents//CompareScenariosGenerators.jl//test//execution_example//models//smart_forecast_julia//smart_forecast_jl.bat"
+model_name = "smart_forecast_jl"
+plot_all_scenarios_windows = true

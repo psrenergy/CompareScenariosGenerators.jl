@@ -1,0 +1,7 @@
+time_series_path = "C://Users//louis.reumaux//Documents//CompareScenariosGenerators.jl//test//execution_example//enas.csv"
+num_steps_ahead = 12
+num_scenarios = 10
+num_windows = 2
+model_executable_path = "C://Users//louis.reumaux//Documents//CompareScenariosGenerators.jl//test//execution_example//models//random_forecast//random_forecast.bat"
+model_name = "random_forecast"
+plot_all_scenarios_windows = true
